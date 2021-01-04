@@ -1,0 +1,7 @@
+"r"= open files for reading -default
+"w = open a file for witing" - default
+"x"creates file if not exists
+"a" add more conent to the file 
+"t" text mode
+"b" binary mode
+"+" read and write
