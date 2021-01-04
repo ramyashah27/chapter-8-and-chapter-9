@@ -1,0 +1,7 @@
+f= open("comedy.txt", "r")
+data=f.read()
+f.close()
+print(data)
+# f= open("comedy.txt", "a")
+# data=f.write( 'OVER')
+# f.close()
